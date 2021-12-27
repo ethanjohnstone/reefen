@@ -3,7 +3,7 @@ import { Product } from "./Product";
 
 const productData = [{
     imageURL:
-        `${process.env.PUBLIC_URL}/img/261432726_215677364062716_4462849518609240088.png`,
+    'https://i.imgur.com/zBVogPv.jpg',
     name: 'Golden eye, Green Chalice',
     price: 150,
     id: 1
