@@ -10,21 +10,21 @@ const productData = [{
 },
 {
     imageURL:
-        'https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=4600&q=80',
+        'https://picsum.photos/606/',
     name: 'Wayfarer Classic 2',
     price: 4.5,
     id: 2
 },
 {
     imageURL:
-        'https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=4600&q=80',
+        'https://picsum.photos/606/',
     name: 'Wayfarer Classic 3',
     price: 4.5,
     id: 3
 },
 {
     imageURL:
-        'https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=4600&q=80',
+        'https://picsum.photos/606/',
     name: 'Wayfarer Classic 4',
     price: 4.5,
     id: 4
