@@ -7,27 +7,6 @@ const productData = [{
     name: 'Golden eye, Green Chalice',
     price: 150,
     id: 1
-},
-{
-    imageURL:
-        'https://picsum.photos/606/',
-    name: 'Wayfarer Classic 2',
-    price: 4.5,
-    id: 2
-},
-{
-    imageURL:
-        'https://picsum.photos/606/',
-    name: 'Wayfarer Classic 3',
-    price: 4.5,
-    id: 3
-},
-{
-    imageURL:
-        'https://picsum.photos/606/',
-    name: 'Wayfarer Classic 4',
-    price: 4.5,
-    id: 4
 }];
 
 export const ProductList = () => (
