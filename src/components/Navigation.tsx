@@ -1,6 +1,5 @@
 
 import {
-  useDisclosure,
   useColorMode,
   Button,
   HStack,
@@ -12,7 +11,6 @@ import { MoonIcon, SunIcon } from '@chakra-ui/icons';
 
 export const Navigation = () => {
   const { colorMode, toggleColorMode } = useColorMode();
-  const { isOpen, onOpen, onClose } = useDisclosure();
 
 
   return (
