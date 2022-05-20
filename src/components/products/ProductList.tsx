@@ -1,13 +1,7 @@
 import { Box, Container, Grid, GridItem, Text, Stack } from "@chakra-ui/react";
 import { Product } from "./Product";
 
-const productData = [{
-    imageURL:
-    'https://i.imgur.com/vwKXD8K.jpg',
-    name: 'Golden eye, Green Chalice',
-    price: 150,
-    id: 1
-}];
+const productData = [];
 
 export const ProductList = () => (
     <Box p={50}>
